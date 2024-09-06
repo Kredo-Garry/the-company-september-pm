@@ -42,6 +42,7 @@
                     </form>
 
                     <p class="text-center mt-3 small">Registered already? <a href="../views">Log in.</a></p>
+                    <p class="text-center mt-3 small">Kredo 2024</p>
                 </div>
             </div>
         </div>
