@@ -7,6 +7,9 @@
          * The logic of our app will be place here.
          */
 
+        /**
+         * Test comment only
+         */
 
         /**
          * Method to store registration details
